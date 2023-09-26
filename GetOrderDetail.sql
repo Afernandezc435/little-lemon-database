@@ -1,1 +1,0 @@
-prepare GetOrderDetail from 'select OrderID, Quantity, TotalCost as Cost from Orders where CustomerID=?';
